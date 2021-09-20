@@ -1,5 +1,5 @@
 {
-	"version": "09.1",
+	"version": "10.1",
 	"download": "https://t.me/berllinmods",
 	"update": [
 		{
