@@ -1,6 +1,6 @@
 {
 	"version": "09.0",
-	"download": "https://t.me/berllinmods",
+	"download": "https://bnmods.github.io/BNWEB/index.html",
 	"update": [
 		{
 			"languaje": "en",
