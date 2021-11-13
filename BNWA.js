@@ -1,5 +1,5 @@
 {
-	"version": "09.0",
+	"version": "10.0",
 	"download": "https://bnmods.github.io/BNWEB/index.html",
 	"update": [
 		{
@@ -16,4 +16,5 @@
 		}
 	]
 }
+
 
